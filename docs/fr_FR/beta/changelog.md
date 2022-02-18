@@ -10,6 +10,8 @@
 - Ajout du nom de zone sur les objets de type "valve" pour une meilleure lisibilité
 - Historisation par défaut de certaines commandes
 - Ajout du score éco dans l'object "Energie"
+- Ajout du score éco pour l'eau chaude
+- Ajout du score éco pour le chauffage central
 
 # 17/02/2022
 
