@@ -1,4 +1,4 @@
-# Changelog plugin boschheatingsystem
+# Changelog plugin boschheatingsystem (STABLE)
 
 >**IMPORTANT**
 >
