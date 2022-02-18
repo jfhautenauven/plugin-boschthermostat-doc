@@ -12,6 +12,9 @@
 - Ajout du score éco dans l'object "Energie"
 - Ajout du score éco pour l'eau chaude
 - Ajout du score éco pour le chauffage central
+- Ajout du nom des équipements lors de la synchronisation
+- Ajout des logos pour zones, programmes et valves intelligentes
+- Ajout du numéro de série de la chaudière dans l'équipement chaudière
 
 # 17/02/2022
 
