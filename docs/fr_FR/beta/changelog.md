@@ -5,6 +5,11 @@
 >S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
 # 22/02/2022
+- Ajout des statistiques de consommation journalières sur l'objet Energie
+- Ajout de la date des dernières données de consommation journalière
+- Ajout de la consommation journalière de gaz pour le chauffage central en m3 et en EUR
+- Ajout de la consommation journalière de gaz pour l'eau chaude sanitaire en m3 et en EUR
+- Ajout de la température extérieure moyenne journalière
 - Resolution de soucis d'installation de dépendances remontés par les beta-testeurs
 - Il est nécessaire actuellement d'utiliser la dernière version ALPHA de Jeedom qui résout le soucis de détection des packages NPM installés sur le système
 
