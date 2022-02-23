@@ -4,6 +4,9 @@
 >
 >S'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 23/02/2022
+- Correction d'un bug où la consommation journalière de gaz pour l'eau chaude rapportée en EUR ne se calculait pas correctement
+
 # 22/02/2022
 - Ajout des statistiques de consommation journalières sur l'objet Energie
 - Ajout de la date des dernières données de consommation journalière
